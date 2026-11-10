@@ -1,0 +1,12 @@
+{
+  "cli": {
+    "version": ">= 27.4.1"
+  },
+  "build": {
+    "ios-simulator": {
+      "ios": {
+        "simulator": true
+      }
+    }
+  }
+}

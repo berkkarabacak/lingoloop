@@ -1,0 +1,896 @@
+[
+  {
+    "slug": "hows-it-going",
+    "headword": "how's it going",
+    "forms": [
+      "how's it going"
+    ],
+    "partOfSpeech": "greeting",
+    "ipa": null,
+    "definition": "A friendly way to ask someone how they are.",
+    "example": "How's it going? You look great today.",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 1,
+    "video": {
+      "url": "/media/clips/hows-it-going.mp4",
+      "poster": "/media/posters/hows-it-going.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "How's it going?"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "How's it going? You look great today."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "on-my-way",
+    "headword": "on my way",
+    "forms": [
+      "on my way"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "Leaving now to go to a particular place.",
+    "example": "I'm on my way to the office now.",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 2,
+    "video": {
+      "url": "/media/clips/on-my-way.mp4",
+      "poster": "/media/posters/on-my-way.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "I'm on my way"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "I'm on my way to the office now."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "hungry",
+    "headword": "hungry",
+    "forms": [
+      "hungry",
+      "hungrier",
+      "hungriest"
+    ],
+    "partOfSpeech": "adjective",
+    "ipa": null,
+    "definition": "Feeling that you want or need to eat.",
+    "example": "I'm hungry, so let's make some lunch.",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 3,
+    "video": {
+      "url": "/media/clips/hungry.mp4",
+      "poster": "/media/posters/hungry.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "I'm hungry,"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "I'm hungry, so let's make some lunch."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "borrow",
+    "headword": "borrow",
+    "forms": [
+      "borrow",
+      "borrowed",
+      "borrowing",
+      "borrows"
+    ],
+    "partOfSpeech": "verb",
+    "ipa": null,
+    "definition": "To take and use something that you must return later.",
+    "example": "Can I borrow your charger for an hour?",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 4,
+    "video": {
+      "url": "/media/clips/borrow.mp4",
+      "poster": "/media/posters/borrow.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "Can I borrow your"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "Can I borrow your charger for an hour?"
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "a-little-bit",
+    "headword": "a little bit",
+    "forms": [
+      "a little bit"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "A small amount or degree of something.",
+    "example": "I'm a little bit tired this morning.",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 5,
+    "video": {
+      "url": "/media/clips/a-little-bit.mp4",
+      "poster": "/media/posters/a-little-bit.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "I'm a little"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "I'm a little bit tired this morning."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "be-late",
+    "headword": "be late",
+    "forms": [
+      "be late",
+      "is late",
+      "are late",
+      "was late",
+      "were late",
+      "going to be late"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "To arrive after the expected time.",
+    "example": "Please call me if you're going to be late.",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 6,
+    "video": {
+      "url": "/media/clips/be-late.mp4",
+      "poster": "/media/posters/be-late.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "Please call me if"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "Please call me if you're going to be late."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "wait-a-minute",
+    "headword": "wait a minute",
+    "forms": [
+      "wait a minute"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "To wait for a short time.",
+    "example": "Wait a minute, I have an idea.",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 7,
+    "video": {
+      "url": "/media/clips/wait-a-minute.mp4",
+      "poster": "/media/posters/wait-a-minute.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "Wait a minute,"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "Wait a minute, I have an idea."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "busy",
+    "headword": "busy",
+    "forms": [
+      "busy",
+      "busier",
+      "busiest"
+    ],
+    "partOfSpeech": "adjective",
+    "ipa": null,
+    "definition": "Having a lot of work or activities to do.",
+    "example": "The café is always busy on Saturdays.",
+    "level": "beginner",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 8,
+    "video": {
+      "url": "/media/clips/busy.mp4",
+      "poster": "/media/posters/busy.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "The café is"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "The café is always busy on Saturdays."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "figure-out",
+    "headword": "figure out",
+    "forms": [
+      "figure out",
+      "figured out",
+      "figuring out",
+      "figures out"
+    ],
+    "partOfSpeech": "phrasal verb",
+    "ipa": null,
+    "definition": "To understand or solve something after thinking about it.",
+    "example": "We figured out why the video would not load.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 1,
+    "video": {
+      "url": "/media/clips/figure-out.mp4",
+      "poster": "/media/posters/figure-out.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "We figured out why"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "We figured out why the video would not load."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "give-up",
+    "headword": "give up",
+    "forms": [
+      "give up",
+      "gave up",
+      "giving up",
+      "gives up",
+      "given up"
+    ],
+    "partOfSpeech": "phrasal verb",
+    "ipa": null,
+    "definition": "To stop trying because something seems too difficult.",
+    "example": "I almost gave up, but then I found the answer.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 2,
+    "video": {
+      "url": "/media/clips/give-up.mp4",
+      "poster": "/media/posters/give-up.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "I almost gave up,"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "I almost gave up, but then I found the answer."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "run-out-of",
+    "headword": "run out of",
+    "forms": [
+      "run out of",
+      "ran out of",
+      "running out of",
+      "runs out of"
+    ],
+    "partOfSpeech": "phrasal verb",
+    "ipa": null,
+    "definition": "To use all of something so none is left.",
+    "example": "We ran out of milk this morning.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 3,
+    "video": {
+      "url": "/media/clips/run-out-of.mp4",
+      "poster": "/media/posters/run-out-of.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "We ran out"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "We ran out of milk this morning."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "catch-up",
+    "headword": "catch up",
+    "forms": [
+      "catch up",
+      "caught up",
+      "catching up",
+      "catches up"
+    ],
+    "partOfSpeech": "phrasal verb",
+    "ipa": null,
+    "definition": "To share recent news with someone you know.",
+    "example": "Let's catch up over coffee next week.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 4,
+    "video": {
+      "url": "/media/clips/catch-up.mp4",
+      "poster": "/media/posters/catch-up.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "Let's catch up"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "Let's catch up over coffee next week."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "to-be-honest",
+    "headword": "to be honest",
+    "forms": [
+      "to be honest"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "Used before saying what you really think.",
+    "example": "To be honest, I expected the test to be harder.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 5,
+    "video": {
+      "url": "/media/clips/to-be-honest.mp4",
+      "poster": "/media/posters/to-be-honest.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "To be honest,"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "To be honest, I expected the test to be harder."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "end-up",
+    "headword": "end up",
+    "forms": [
+      "end up",
+      "ended up",
+      "ending up",
+      "ends up"
+    ],
+    "partOfSpeech": "phrasal verb",
+    "ipa": null,
+    "definition": "To finally be in a situation you did not plan.",
+    "example": "We got lost and ended up by the river.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 6,
+    "video": {
+      "url": "/media/clips/end-up.mp4",
+      "poster": "/media/posters/end-up.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "We got lost and"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "We got lost and ended up by the river."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "look-forward-to",
+    "headword": "look forward to",
+    "forms": [
+      "look forward to"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "To feel pleased and excited about a future event.",
+    "example": "I look forward to hearing from you.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 7,
+    "video": {
+      "url": "/media/clips/look-forward-to.mp4",
+      "poster": "/media/posters/look-forward-to.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "I look forward"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "I look forward to hearing from you."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "worth-it",
+    "headword": "worth it",
+    "forms": [
+      "worth it"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "Useful or enjoyable enough to justify the effort or cost.",
+    "example": "The walk is long, but the view is worth it.",
+    "level": "intermediate",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 8,
+    "video": {
+      "url": "/media/clips/worth-it.mp4",
+      "poster": "/media/posters/worth-it.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "The walk is long,"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "The walk is long, but the view is worth it."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "a-blessing-in-disguise",
+    "headword": "a blessing in disguise",
+    "forms": [
+      "a blessing in disguise"
+    ],
+    "partOfSpeech": "idiom",
+    "ipa": null,
+    "definition": "Something that seems bad at first but produces a good result.",
+    "example": "Losing that job was a blessing in disguise for her.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 1,
+    "video": {
+      "url": "/media/clips/a-blessing-in-disguise.mp4",
+      "poster": "/media/posters/a-blessing-in-disguise.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "Losing that job was a"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "Losing that job was a blessing in disguise for her."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "nuanced",
+    "headword": "nuanced",
+    "forms": [
+      "nuanced"
+    ],
+    "partOfSpeech": "adjective",
+    "ipa": null,
+    "definition": "Showing small but important differences in meaning or feeling.",
+    "example": "The article gives a nuanced view of urban life.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 2,
+    "video": {
+      "url": "/media/clips/nuanced.mp4",
+      "poster": "/media/posters/nuanced.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "The article gives a"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "The article gives a nuanced view of urban life."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "cut-corners",
+    "headword": "cut corners",
+    "forms": [
+      "cut corners",
+      "cutting corners",
+      "cuts corners"
+    ],
+    "partOfSpeech": "idiom",
+    "ipa": null,
+    "definition": "To save time or money by doing something less carefully.",
+    "example": "The team cut corners and the app failed.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 3,
+    "video": {
+      "url": "/media/clips/cut-corners.mp4",
+      "poster": "/media/posters/cut-corners.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "The team cut corners"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "The team cut corners and the app failed."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "on-the-fence",
+    "headword": "on the fence",
+    "forms": [
+      "on the fence"
+    ],
+    "partOfSpeech": "idiom",
+    "ipa": null,
+    "definition": "Unable to decide between two choices.",
+    "example": "I'm on the fence about moving abroad.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 4,
+    "video": {
+      "url": "/media/clips/on-the-fence.mp4",
+      "poster": "/media/posters/on-the-fence.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "I'm on the"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "I'm on the fence about moving abroad."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "to-no-avail",
+    "headword": "to no avail",
+    "forms": [
+      "to no avail"
+    ],
+    "partOfSpeech": "expression",
+    "ipa": null,
+    "definition": "Without success or a useful result.",
+    "example": "We tried to fix the connection, to no avail.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 5,
+    "video": {
+      "url": "/media/clips/to-no-avail.mp4",
+      "poster": "/media/posters/to-no-avail.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "We tried to fix the connection,"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "We tried to fix the connection, to no avail."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "hit-the-ground-running",
+    "headword": "hit the ground running",
+    "forms": [
+      "hit the ground running"
+    ],
+    "partOfSpeech": "idiom",
+    "ipa": null,
+    "definition": "To begin something with great energy and effectiveness.",
+    "example": "Our new developer hit the ground running.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 6,
+    "video": {
+      "url": "/media/clips/hit-the-ground-running.mp4",
+      "poster": "/media/posters/hit-the-ground-running.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "Our new developer"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "Our new developer hit the ground running."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "ubiquitous",
+    "headword": "ubiquitous",
+    "forms": [
+      "ubiquitous"
+    ],
+    "partOfSpeech": "adjective",
+    "ipa": null,
+    "definition": "Seeming to be everywhere at the same time.",
+    "example": "Smartphones are ubiquitous in modern life.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 7,
+    "video": {
+      "url": "/media/clips/ubiquitous.mp4",
+      "poster": "/media/posters/ubiquitous.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "Smartphones are ubiquitous"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "Smartphones are ubiquitous in modern life."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  },
+  {
+    "slug": "the-elephant-in-the-room",
+    "headword": "the elephant in the room",
+    "forms": [
+      "the elephant in the room"
+    ],
+    "partOfSpeech": "idiom",
+    "ipa": null,
+    "definition": "An obvious problem that people avoid discussing.",
+    "example": "The budget is the elephant in the room.",
+    "level": "advanced",
+    "translations": {},
+    "status": "published",
+    "sortOrder": 8,
+    "video": {
+      "url": "/media/clips/the-elephant-in-the-room.mp4",
+      "poster": "/media/posters/the-elephant-in-the-room.jpg",
+      "durationMs": 8000,
+      "subtitles": [
+        {
+          "startMs": 400,
+          "endMs": 3500,
+          "text": "The budget is the"
+        },
+        {
+          "startMs": 3500,
+          "endMs": 7600,
+          "text": "The budget is the elephant in the room."
+        }
+      ],
+      "sourceType": "placeholder",
+      "license": "Generated-placeholder",
+      "attribution": "LingoLoop generated study card, not real-life footage",
+      "sourceUrl": null
+    }
+  }
+]

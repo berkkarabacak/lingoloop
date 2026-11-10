@@ -1,0 +1,27 @@
+{
+  "name": "lingoloop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "shared",
+    "server",
+    "mobile"
+  ],
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "start": "node scripts/start.mjs",
+    "dev:server": "npm -w @lingoloop/server run dev",
+    "dev:web": "npm -w @lingoloop/mobile run web",
+    "build": "npm run typecheck && npm -w @lingoloop/mobile run build:web",
+    "seed": "node content/scripts/make-media.mjs && npm -w @lingoloop/server run seed",
+    "test": "npm -w @lingoloop/shared test && npm -w @lingoloop/server test",
+    "e2e": "node tests/e2e.mjs",
+    "test:resilience": "node tests/resilience.mjs",
+    "typecheck": "npm -w @lingoloop/shared run typecheck && npm -w @lingoloop/server run typecheck && npm -w @lingoloop/mobile run typecheck"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "ffmpeg-static": "^5.2.0"
+  }
+}

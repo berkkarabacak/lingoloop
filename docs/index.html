@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="LingoLoop — short contextual video lessons, saved vocabulary, quizzes, XP, and streaks on Android and Chrome Web.">
+  <title>LingoLoop — Every swipe. One new word.</title>
+  <style>
+    :root{color-scheme:dark;--ink:#0e0f13;--surface:#181a21;--surface2:#23262f;--line:#2e3240;--text:#f5f6fa;--muted:#a3a8b8;--lime:#c6f432}*{box-sizing:border-box}body{margin:0;background:var(--ink);color:var(--text);font:16px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}a{color:var(--lime;text-decoration:none}main{max-width:1180px;margin:auto;padding:32px 24px 64px}nav{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:72px}.brand{font-size:24px;font-weight:800}.brand span,h1 span{color:var(--lime)}.button{display:inline-block;padding:12px 20px;border:1px solid var(--line);border-radius:12px;font-weight:700;background:var(--surface);color:var(--text)}.button.primary{background:var(--lime);color:var(--ink);border-color:var(--lime)}.hero{max-width:760px;margin-bottom:56px}h1{font-size:clamp(44px,7vw,78px);line-height:1.03;letter-spacing:-.045em;margin:0 0 24px}h2{font-size:30px;line-height:1.2;margin:0 0 12px}p{color:var(--muted);font-size:18px}.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:40px 0 56px}.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:22px}.card strong{display:block;font-size:19px;margin-bottom:8px}.card p{font-size:15px;margin:0}.review{background:var(--surface);padding:18px;border:1px solid var(--line);border-radius:22px}.review img{display:block;width:100%;border-radius:12px}.review p{font-size:14px}.note{border-left:4px solid var(--lime);padding:12px 18px;background:var(--surface2);margin-top:32px}code{background:var(--surface2);padding:2px 6px;border-radius:5px;color:var(--text)}footer{margin-top:40px;color:var(--muted);font-size:14px}@media(max-width:800px){nav{margin-bottom:48px}.grid{grid-template-columns:repeat(2,1fr)}main{padding-top:22px}}@media(max-width:460px){.grid{grid-template-columns:1fr}.button{padding:11px 15px}}
+  </style>
+</head>
+<body><main>
+  <nav><div class="brand">Lingo<span>Loop</span></div><a class="button" href="https://github.com/berkkarabacak/lingoloop">GitHub repository</a></nav>
+  <section class="hero"><h1>Every swipe.<br><span>One new word.</span></h1><p>Short contextual clips turn endless scrolling into an English-learning habit. Explore lessons, save vocabulary, complete quizzes, and build a streak on Android and Chrome Web.</p><div class="actions"><a class="button primary" href="https://github.com/berkkarabacak/lingoloop#quick-start">Start locally</a><a class="button" href="assets/lingoloop-ui-review.jpg" download>Download UI review</a></div></section>
+  <section class="grid" aria-label="Features">
+    <div class="card"><strong>Video lessons</strong><p>Full-screen clips, highlighted subtitles, replay, mute, and readable fallbacks.</p></div>
+    <div class="card"><strong>Saved words</strong><p>Bookmark vocabulary and return to a searchable personal collection.</p></div>
+    <div class="card"><strong>Quizzes and XP</strong><p>Unlock quick checks, receive immediate feedback, and earn completion XP.</p></div>
+    <div class="card"><strong>Progress that lasts</strong><p>Persistent accounts, streaks, level selection, and offline completion sync.</p></div>
+  </section>
+  <section class="review"><h2>Current UI review</h2><p>Ten real screens captured in Chrome: onboarding, feed, saved words, quiz, profile, desktop, and admin.</p><img src="assets/lingoloop-ui-review.jpg" alt="LingoLoop screens for welcome, level selection, learning feed, saved words, quiz, profile, desktop feed, and admin studio" loading="lazy"></section>
+  <section class="note" id="quick-start"><h2>Run the full app</h2><p>Clone the repository, then run <code>npm install</code>, <code>npm run seed</code>, and <code>npm run dev</code>. The Chrome app opens on port 7100 and the API on port 4000.</p><p><strong>GitHub Pages is a preview and setup guide only.</strong> The full application needs its Node.js/SQLite backend. Android emulator QA is verified; iOS and non-Chrome browsers are outside the current scope.</p></section>
+  <footer>Built with Expo, React Native, Hono, and SQLite. Placeholder lesson clips are labeled and are not real-life footage.</footer>
+</main></body></html>

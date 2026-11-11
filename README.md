@@ -1,5 +1,8 @@
 # LingoLoop
 
+Public preview: https://berkkarabacak.github.io/lingoloop/
+Source repository: https://github.com/berkkarabacak/lingoloop
+
 A cross-platform English-learning MVP built from the supplied TikTok-style vocabulary specification. One swipe presents one word through a short contextual clip, highlighted subtitles, definitions, and examples.
 
 ## Implemented
